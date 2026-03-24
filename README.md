@@ -1,5 +1,6 @@
 <!-- Header -->
 <div align="center">
+    
 # BARATH KUMAR S
 # I explore deeply, build messily, and solve things that matter
 
@@ -80,12 +81,11 @@ barath = {
 
 ## 🏆 Achievements & Certifications
 
-- 🥈 **2nd Place — Ideathon 2024** | KCT Garage | ₹2,000 cash prize | Aerodynamic drag reduction concept
-- 📜 **NPTEL — Data Science Using Python** | Score: 83% | Assignments: 25/25 | Govt. of India
+- 🥈 **2nd Place — Ideathon 2024** | KCT Garage 
+- 📜 **NPTEL — Data Science Using Python** | Score: 83% 
 - 📜 **Cisco Networking Academy** — Exploring Networking with Packet Tracer
-- 📜 **Johns Hopkins University** — Raspberry Pi Projects — **With Honors**
+- 📜 **Johns Hopkins University** — Raspberry Pi Projects 
 - 📜 **Scaler Topics** — DBMS Fundamentals & Advanced Concepts
-- 📜 **KCT / Coursera** — Autonomous Mobility · Disruptive Technologies
 
 ---
 
