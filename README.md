@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
-
-# Undergrad @ KCT | I explore deeply, build messily, and solve things that matter
+# BARATH KUMAR S
+# I explore deeply, build messily, and solve things that matter
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+IT+%40+Kumaraguru+College+of+Technology;Research+%40+R%C3%A9+Centre+for+Exploratory+Research;Embedded+Systems+%C2%B7+Data+Science+%C2%B7+Cybersecurity;NPTEL+%E2%80%94+Data+Science+using+Python+%7C+83%25)](https://git.io/typing-svg)
 
